@@ -38,6 +38,12 @@ MIT
 @angular/router
 MIT
 
+@ngrx/effects
+MIT
+
+@ngrx/store
+MIT
+
 after
 MIT
 Copyright (c) 2011 Raynos.
